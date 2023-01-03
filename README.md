@@ -2,7 +2,7 @@
 
 Windows-only Python app that will start a system tray application that checks your clipboard for any readable text in an image. It will then perform OCR and open the Google search results into a new tab in your web broswer.
 
-Used for capturing non-selectable text in various media: streams, videos, PDFs, etc. Has the potential to be faster than selecting normal text with tradtional copy + paste operations.
+Used for capturing non-selectable text in various media: streams, games, videos, PDFs, etc. Has the potential to be faster than selecting normal text with tradtional copy + paste operations.
 
 ## Usage
 
