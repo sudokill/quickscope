@@ -1,0 +1,9 @@
+README.md
+quickscope.py
+setup.py
+quickscope.egg-info/PKG-INFO
+quickscope.egg-info/SOURCES.txt
+quickscope.egg-info/dependency_links.txt
+quickscope.egg-info/entry_points.txt
+quickscope.egg-info/requires.txt
+quickscope.egg-info/top_level.txt
