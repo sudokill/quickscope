@@ -8,7 +8,7 @@ Used for capturing non-selectable text in various media: streams, games, videos,
 
 Windows installation of tesseract-OCR is required. Get it here:
 
-[https://github.com/UB-Mannheim/tesseract/wiki](https://github.com/UB-Mannheim/tesseract/wiki)
+[https://github.com/UB-Mannheim/tesseract/wiki#tesseract-installer-for-windows](https://github.com/UB-Mannheim/tesseract/wiki#tesseract-installer-for-windows)
 ## Features
 
 - system tray menu
